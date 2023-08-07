@@ -38,7 +38,7 @@
 
 
 #### 3. Advanced group courses 
-*Any employee can opt into for more advanced writing techniques (could even make it “community vote” based!*
+*Any employee can opt into for more advanced writing techniques (could even make it “community vote” based).*
   
     - Parallel structure
     - Participle clauses
