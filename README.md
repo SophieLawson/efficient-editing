@@ -7,7 +7,7 @@
     - Advanced group courses
     - Personalized feedback tracking
 
-#### 1. Formatted Templates
+#### 1. Formatted templates
 *Create and maintain a robust library/repostory of templates to allow employees to write more efficiently.* 
 
     - Formatted templates to create consistency and streamline specific writing tasks 
@@ -15,7 +15,7 @@
     - Language templates for researchers and engineers to import & structure findings more efficiently
       - Build a repository of phrases, vocab, types of sentences (transitions, topic sentences, clarifying language, etc.)
 
-#### 2. Onboarding Coaching
+#### 2. Onboarding coaching
 *Offer a general group course that follows a fixed syllabus (could do one every quarter for new employees).*
 
 ##### a. Know your audience
