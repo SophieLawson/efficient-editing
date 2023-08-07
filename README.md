@@ -48,9 +48,7 @@
     - Rhetoric (for more persuasive writing)
     - Etc. 
 
-#### 4. Personalized Feedback Tracking
-*For any employee who wants individual coaching on feedback I’ve given them or other communication topics they’re concerned about. Could have recurring monthly lessons or hold “office hours” that people sign up for on given days/times* 
+#### 4. Test
 
-     - Everything English related!
-       - Being assertive/diplomatic, creative writing, user-specific grammar, presentations, etc.
+#### 5. Problem
 
