@@ -8,7 +8,7 @@
     - Personalized feedback tracking
 
 #### 1. Formatted Templates
-*Create and maintain a robust library/repostory of templates to allow employees to write more efficiently* 
+*Create and maintain a robust library/repostory of templates to allow employees to write more efficiently.* 
 
     - Formatted templates to create consistency and streamline specific writing tasks 
       - (audits, presentations, thought pieces, blog posts, etc.)
@@ -16,7 +16,7 @@
       - Build a repository of phrases, vocab, types of sentences (transitions, topic sentences, clarifying language, etc.)
 
 #### 2. Onboarding Coaching
-*Offer a general group course that follows a fixed syllabus (could do one every quarter for new employees)*
+*Offer a general group course that follows a fixed syllabus (could do one every quarter for new employees).*
 
 ##### a. Know your audience
     - Tones, style, voice, 
@@ -48,7 +48,6 @@
     - Rhetoric (for more persuasive writing)
     - Etc. 
 
-#### 4. Test
-
-#### 5. Problem
+#### 4. Personalized feedback tracking
+*For any employee who wants individual coaching on feedback I’ve given them or other communication topics they’re concerned about. Could have recurring monthly lessons or hold “office hours” that people sign up for on given days/times.* 
 
