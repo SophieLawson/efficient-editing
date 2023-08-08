@@ -1,5 +1,6 @@
 # Efficient-Editing
 ## Suggestions to Improve Efficient Writing and Editing In-Company
+This outline is to help companies develop a strategy for efficient writing. It is a basic foundation on which companies can build their own solutions.  
 
 ### Four-step approach to improve writing efficiency 
     - Formatted templates
@@ -8,7 +9,7 @@
     - Personalized feedback tracking
 
 #### 1. Formatted templates
-*Create and maintain a robust library/repostory of templates to allow employees to write more efficiently.* 
+*Create and maintain a robust library/repository of templates to allow employees to write more efficiently.* 
 
     - Formatted templates to create consistency and streamline specific writing tasks 
       - (audits, presentations, thought pieces, blog posts, etc.)
@@ -38,7 +39,7 @@
 
 
 #### 3. Advanced group courses 
-*Any employee can opt into for more advanced writing techniques (could even make it “community vote” based).*
+*Any employee can opt into for more advanced writing techniques (topics can be selected or 'voted on' by employees).*
   
     - Parallel structure
     - Participle clauses
