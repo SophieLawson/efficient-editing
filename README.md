@@ -50,7 +50,7 @@ This outline is to help companies develop a strategy for efficient writing. It i
     - Etc. 
 
 #### 4. Personalized feedback tracking
-*For any employee who wants individual coaching on feedback I’ve given them or other communication topics they’re concerned about. Could have recurring monthly lessons or hold “office hours” that people sign up for on given days/times.* 
+*For any employee who wants individual coaching on feedback they've received (from editing tools like Grammarly or from a coach) or other communication topics they’re concerned about. Could have recurring monthly lessons or hold “office hours” that people sign up for on given days/times.* 
 
      - Everything English related!
        - Being assertive/diplomatic, creative writing, user-specific grammar, presentations, etc.
